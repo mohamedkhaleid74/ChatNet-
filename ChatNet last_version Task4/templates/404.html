@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found - ChatNet</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="glow-orb orb-1 error-orb"></div>
+        <div class="glow-orb orb-2 error-orb"></div>
+    </div>
+    <div class="container fade-in glass-panel error-page">
+        <div class="error-content">
+            <h1 class="error-code gradient-text-error">404</h1>
+            <h2>Page Not Found</h2>
+            <div class="glass-card error-details">
+                <p>The route you requested does not exist on the ChatNet server.</p>
+                <p class="monospace">ERR_ROUTE_UNKNOWN</p>
+            </div>
+            <div class="actions">
+                <a href="/chatlog" class="btn btn-primary btn-large">Return to Chat Logs</a>
+            </div>
+        </div>
+        <footer>
+            <p>ChatNet Engine V4 • <span class="time-value">{{ current_time }}</span></p>
+        </footer>
+    </div>
+</body>
+</html>

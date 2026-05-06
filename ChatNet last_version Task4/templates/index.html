@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatNet - Home</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container fade-in">
+        <header>
+            <h1>Welcome to ChatNet</h1>
+            <p class="subtitle">A fast, reliable, and secure terminal chat system.</p>
+        </header>
+        
+        <div class="card">
+            <h2>About ChatNet Server</h2>
+            <p>This web interface allows you to view the real-time chat history of the ChatNet TCP application.</p>
+            <p><strong>Status:</strong> <span class="status-online">● Online</span></p>
+        </div>
+
+        <div class="actions">
+            <a href="/chatlog" class="btn btn-primary">View Chat Logs</a>
+            <a href="/unknown" class="btn btn-secondary">Test 404 Error</a>
+        </div>
+
+        <footer>
+            <p>Server Time: {{ current_time }}</p>
+            <p>Powered by ChatNet Engine</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatNet Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="glow-orb orb-1"></div>
+        <div class="glow-orb orb-2"></div>
+    </div>
+    <div class="container fade-in glass-panel">
+        <header class="dashboard-header">
+            <div class="header-content">
+                <h1><span class="gradient-text">ChatNet</span> Dashboard</h1>
+                <p class="subtitle">Live System Monitor</p>
+            </div>
+            <div class="header-actions">
+                <a href="/chatlog" class="btn btn-primary" title="Refresh Logs">
+                    ↻ Refresh
+                </a>
+                <a href="/unknown" class="btn btn-secondary">Test 404</a>
+            </div>
+        </header>
+        
+        <div class="stats-container">
+            <div class="stat-box glass-card">
+                <span class="stat-label">Server Status</span>
+                <span class="stat-value status-online">● Online</span>
+            </div>
+            <div class="stat-box glass-card">
+                <span class="stat-label">Total Messages</span>
+                <span class="stat-value highlight">{{ total_messages }}</span>
+            </div>
+            <div class="stat-box glass-card">
+                <span class="stat-label">System Time</span>
+                <span class="stat-value time-value">{{ current_time }}</span>
+            </div>
+        </div>
+
+        <div class="log-section glass-card">
+            <div class="log-header">
+                <h2>Terminal Stream</h2>
+            </div>
+            <div class="log-container" id="logContainer">
+                {{ logs_content }}
+            </div>
+        </div>
+
+        <footer>
+            <p>ChatNet Engine V4 • <span class="time-value">{{ current_time }}</span></p>
+        </footer>
+    </div>
+    
+    <script>
+        // Auto scroll to bottom
+        const container = document.getElementById('logContainer');
+        if (container) {
+            container.scrollTop = container.scrollHeight;
+        }
+
+        // Colorize timestamps and usernames purely via Frontend JS
+        document.querySelectorAll('.log-message').forEach(el => {
+            let text = el.innerHTML;
+            
+            // Highlight timestamps [YYYY-MM-DD HH:MM:SS] or similar
+            text = text.replace(/(\[\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2}\])|(\[\d{2}:\d{2}:\d{2}\])/g, '<span style="color: #60a5fa; opacity: 0.8;">$1$2</span>');
+            
+            // Highlight text before a colon (e.g. Username: or IP:)
+            text = text.replace(/\] ([A-Za-z0-9_.-]+): /g, '] <span style="color: #34d399; font-weight: 600;">$1</span>: ');
+            text = text.replace(/^([A-Za-z0-9_.-]+): /g, '<span style="color: #34d399; font-weight: 600;">$1</span>: ');
+
+            el.innerHTML = text;
+        });
+    </script>
+</body>
+</html>
