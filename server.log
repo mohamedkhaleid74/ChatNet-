@@ -1,0 +1,178 @@
+[18:41:56] Server started and listening for connections
+[18:43:26] New TCP connection from ('192.168.32.1', 51639)
+[18:43:26] Homsany connected from ('192.168.32.1', 51639)
+[18:45:30] New TCP connection from ('192.168.32.1', 51672)
+[18:45:30] el far7a connected from ('192.168.32.1', 51672)
+[18:49:21] [ERROR] Exception handling ('192.168.32.1', 51639): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:49:21] Homsany disconnected
+[18:49:31] [ERROR] Exception handling ('192.168.32.1', 51672): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:49:31] el far7a disconnected
+[18:50:17] Server started and listening for connections
+[18:51:42] New TCP connection from ('192.168.32.1', 51787)
+[18:51:43] Homsany connected from ('192.168.32.1', 51787)
+[18:52:33] New TCP connection from ('192.168.32.1', 51798)
+[18:52:33] el far7a connected from ('192.168.32.1', 51798)
+[18:55:46] [ERROR] Exception handling ('192.168.32.1', 51787): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:55:46] Homsany disconnected
+[18:55:50] [ERROR] Exception handling ('192.168.32.1', 51798): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:55:50] el far7a disconnected
+[18:56:30] New TCP connection from ('192.168.32.1', 51850)
+[18:56:30] el connected from ('192.168.32.1', 51850)
+[18:56:36] [ERROR] Exception handling ('192.168.32.1', 51850): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:56:36] el disconnected
+[18:57:31] New TCP connection from ('192.168.32.1', 51877)
+[18:57:31] el_far7a connected from ('192.168.32.1', 51877)
+[18:58:10] New TCP connection from ('192.168.32.1', 51913)
+[18:58:10] Homsany connected from ('192.168.32.1', 51913)
+[19:00:36] PRIVATE Homsany → el_far7a: mat7nny ya far7a, private message!
+[19:01:35] CHAT from el_far7a: /l_far7a
+[19:02:01] el_far7a disconnected
+[19:05:44] [ERROR] Exception handling ('192.168.32.1', 51913): [WinError 10054] An existing connection was forcibly closed by the remote host
+[19:05:44] Homsany disconnected
+[19:06:22] Server started and listening for connections
+[19:07:00] New TCP connection from ('192.168.32.1', 52042)
+[19:07:00] Homsany connected from ('192.168.32.1', 52042)
+[19:07:52] New TCP connection from ('192.168.32.1', 52058)
+[19:07:52] el_far7a connected from ('192.168.32.1', 52058)
+[19:08:56] CHAT from Homsany: mat7nny ya far7a 😭
+[19:09:24] el_far7a disconnected
+[19:18:25] [ERROR] Exception handling ('192.168.32.1', 52042): [WinError 10054] An existing connection was forcibly closed by the remote host
+[19:18:25] Homsany disconnected
+[21:54:18] Server started and listening for connections
+[21:55:04] New TCP connection from ('192.168.32.1', 54783)
+[21:55:04] Kemo connected from ('192.168.32.1', 54783)
+[21:56:02] New TCP connection from ('192.168.32.1', 54785)
+[21:56:02] Homs connected from ('192.168.32.1', 54785)
+[21:56:38] New TCP connection from ('192.168.32.1', 54786)
+[21:56:38] El_far7a connected from ('192.168.32.1', 54786)
+[21:58:55] CHAT from Homs: hello
+[22:00:03] PRIVATE Kemo → El_far7a: hello ya mara
+[22:12:21] CHAT from Homs: hello everyone
+[23:09:02] [ERROR] Exception handling ('192.168.32.1', 54783): [WinError 10053] An established connection was aborted by the software in your host machine
+[23:09:02] [ERROR] Exception handling ('192.168.32.1', 54785): [WinError 10053] An established connection was aborted by the software in your host machine
+[23:09:02] [ERROR] Exception handling ('192.168.32.1', 54786): [WinError 10053] An established connection was aborted by the software in your host machine
+[23:09:02] Kemo disconnected
+[23:09:02] El_far7a disconnected
+[23:58:43] Server started and listening for connections
+[23:59:43] New TCP connection from ('192.168.32.1', 51653)
+[23:59:43] Sara connected from ('192.168.32.1', 51653)
+[00:00:31] CHAT from Sara: HELLO Bitch
+[00:01:08] New TCP connection from ('192.168.32.1', 51660)
+[00:01:08] Nada connected from ('192.168.32.1', 51660)
+[00:01:21] CHAT from Nada: hello u too
+[00:02:11] PRIVATE Nada → Sara: fuck u cunt
+[02:26:08] Server started and listening for connections
+[02:28:17] New TCP connection from ('192.168.32.1', 62575)
+[02:28:17] Homs connected from ('192.168.32.1', 62575)
+[02:30:07] New TCP connection from ('192.168.32.1', 62606)
+[02:30:07] kemo connected from ('192.168.32.1', 62606)
+[02:30:39] CHAT from kemo: hello
+[02:31:13] New TCP connection from ('192.168.32.1', 62626)
+[02:31:13] zaid connected from ('192.168.32.1', 62626)
+[02:32:50] PRIVATE zaid → kemo: hello yasta
+[02:38:53] CHAT from zaid: network
+[03:20:10] Server started and listening for connections
+[03:20:45] New TCP connection from ('192.168.32.1', 65530)
+[03:20:45] mohamed connected from ('192.168.32.1', 65530)
+[03:21:10] Server started and listening for connections
+[03:22:03] New TCP connection from ('192.168.32.1', 49171)
+[03:22:03] marmar connected from ('192.168.32.1', 49171)
+[03:44:05] [ERROR] Exception handling ('192.168.32.1', 49171): [WinError 10054] An existing connection was forcibly closed by the remote host
+[03:44:05] marmar disconnected
+[03:44:07] [ERROR] Exception handling ('192.168.32.1', 65530): [WinError 10054] An existing connection was forcibly closed by the remote host
+[03:44:07] mohamed disconnected
+[03:45:37] Server started and listening for connections
+[03:46:38] New TCP connection from ('192.168.32.1', 49538)
+[03:46:38] mohamed connected from ('192.168.32.1', 49538)
+[03:47:11] New TCP connection from ('192.168.32.1', 49544)
+[03:47:12] khaled connected from ('192.168.32.1', 49544)
+[03:47:44] [ERROR] Exception handling ('192.168.32.1', 49544): [WinError 10054] An existing connection was forcibly closed by the remote host
+[03:47:44] khaled disconnected
+[03:52:07] Server started and listening for connections
+[03:53:12] New TCP connection from ('192.168.32.1', 49639)
+[03:53:12] mohamed connected from ('192.168.32.1', 49639)
+[03:54:00] New TCP connection from ('192.168.32.1', 49642)
+[03:54:00] seka connected from ('192.168.32.1', 49642)
+[03:54:41] New TCP connection from ('192.168.32.1', 49646)
+[03:54:41] reda connected from ('192.168.32.1', 49646)
+[03:55:19] PRIVATE reda → mohamed: hello ya a5oyaa
+[03:55:45] PRIVATE reda → seka: we anta ya aboyaa
+[03:55:58] CHAT from reda: hello everyone
+[03:56:06] CHAT from reda: marhaba
+[03:56:13] CHAT from reda: ya nass
+[03:57:01] PRIVATE mohamed → reda: thanks ya bro
+[03:58:09] CHAT from mohamed: sendfile <notes.txt> <reda>
+[03:59:21] FILE TRANSFER requested by reda to seka (IP resolved to 192.168.32.1)
+[04:02:08] CHAT from reda: @seka ya blady
+[04:06:17] [ERROR] Exception handling ('192.168.32.1', 49646): [WinError 10054] An existing connection was forcibly closed by the remote host
+[04:06:17] reda disconnected
+[04:06:21] [ERROR] Exception handling ('192.168.32.1', 49642): [WinError 10054] An existing connection was forcibly closed by the remote host
+[04:06:21] seka disconnected
+[04:06:22] [ERROR] Exception handling ('192.168.32.1', 49639): [WinError 10054] An existing connection was forcibly closed by the remote host
+[04:06:22] mohamed disconnected
+[04:10:36] Server started and listening for connections
+[04:11:23] New TCP connection from ('192.168.32.1', 49927)
+[04:11:23] moooz connected from ('192.168.32.1', 49927)
+[04:13:07] New TCP connection from ('192.168.32.1', 49954)
+[04:13:07] elFar7aa connected from ('192.168.32.1', 49954)
+[04:13:15] CHAT from elFar7aa: hello
+[04:13:44] PRIVATE elFar7aa → moooz: hi bro
+[04:14:19] FILE TRANSFER requested by elFar7aa to moooz (IP resolved to 192.168.32.1)
+[04:14:52] CHAT from moooz: @elFar7a hi
+[04:28:32] [SMTP] Email notification sent to mooz@gmail.com
+[04:32:26] [ERROR] Exception handling ('192.168.32.1', 49954): [WinError 10054] An existing connection was forcibly closed by the remote host
+[04:32:26] elFar7aa disconnected
+[04:32:28] [ERROR] Exception handling ('192.168.32.1', 49927): [WinError 10054] An existing connection was forcibly closed by the remote host
+[04:32:28] moooz disconnected
+[18:24:13] Server started and listening for connections
+[18:30:42] New TCP connection from ('192.168.32.1', 53587)
+[18:30:43] mohamed connected from ('192.168.32.1', 53587)
+[18:31:09] New TCP connection from ('192.168.32.1', 53596)
+[18:31:09] kemo connected from ('192.168.32.1', 53596)
+[18:31:27] CHAT from kemo: /msq mohamed hi ya bro
+[18:31:46] PRIVATE kemo → mohamed: hi bro
+[18:31:46] [SMTP] Email notification sent to mohamed@gmail.com
+[18:31:47] [SMTP] Email notification sent to mohamed@gmail.com
+[18:32:02] CHAT from kemo: @mohamed hi brother
+[18:32:02] [SMTP] Email notification sent to mohamed@gmail.com
+[18:32:02] [SMTP] Email notification sent to mohamed@gmail.com
+[18:33:30] New TCP connection from ('192.168.32.1', 53652)
+[18:33:30] ziad connected from ('192.168.32.1', 53652)
+[18:33:47] PRIVATE ziad → kemo: marhab ya arab
+[18:33:47] [SMTP] Email notification sent to kkk@gmail.com
+[18:33:47] [SMTP] Email notification sent to kkk@gmail.com
+[18:35:15] [ERROR] Exception handling ('192.168.32.1', 53652): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:35:15] ziad disconnected
+[18:35:23] [ERROR] Exception handling ('192.168.32.1', 53596): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:35:23] kemo disconnected
+[18:35:24] [ERROR] Exception handling ('192.168.32.1', 53587): [WinError 10054] An existing connection was forcibly closed by the remote host
+[18:35:24] mohamed disconnected
+[22:34:17] Server started and listening for connections
+[22:35:00] New TCP connection from ('192.168.32.1', 53538)
+[22:35:00] homs connected from ('192.168.32.1', 53538)
+[22:36:14] [SMTP] Email notification sent to homs@gmail.com
+[22:37:52] New TCP connection from ('192.168.32.1', 53562)
+[22:37:52] maramr connected from ('192.168.32.1', 53562)
+[22:38:19] PRIVATE maramr → homs: baaaahbaaaak
+[22:38:19] [SMTP] Email notification sent to homs@gmail.com
+[22:38:20] [SMTP] Email notification sent to homs@gmail.com
+[22:48:08] [ERROR] Exception handling ('192.168.32.1', 53562): [WinError 10054] An existing connection was forcibly closed by the remote host
+[22:48:08] maramr disconnected
+[22:48:14] [ERROR] Exception handling ('192.168.32.1', 53538): [WinError 10054] An existing connection was forcibly closed by the remote host
+[22:48:14] homs disconnected
+[14:26:26] Server started and listening for connections
+[14:28:15] New TCP connection from ('192.168.32.1', 54284)
+[14:28:16] mohamed connected from ('192.168.32.1', 54284)
+[14:29:04] New TCP connection from ('192.168.32.1', 54305)
+[14:29:04] kemo connected from ('192.168.32.1', 54305)
+[14:29:10] CHAT from kemo: hello
+[14:29:46] PRIVATE kemo → mohamed: hi
+[14:29:46] [SMTP] Email notification sent to mog@gmail.com
+[18:36:45] Server started and listening for connections
+[18:38:03] New TCP connection from ('192.168.32.1', 51549)
+[18:38:03] mohamed connected from ('192.168.32.1', 51549)
+[18:38:52] New TCP connection from ('192.168.32.1', 51559)
+[18:38:52] jasmin connected from ('192.168.32.1', 51559)
+[18:43:57] CHAT from jasmin: @mohamed  hello bro
+[18:43:57] [SMTP] Email notification sent to eng.mohamedkhaled.ict@gmail.com
+[18:43:57] [SMTP] Email notification sent to eng.mohamedkhaled.ict@gmail.com
